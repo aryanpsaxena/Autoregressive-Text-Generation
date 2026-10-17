@@ -1,0 +1,126 @@
+
+##### SEED: 'alice was beginning to get very tired of'   |   TEMPERATURE: 0.2
+[SimpleRNN] alice was beginning to get very tired of the hatter. i don't see you know, said the caterpillar. i don't be
+   be, said alice, and not not to be the little turtle, and she was to the little turtle, and the king of the
+   little turtle, and the gryphon,
+[BiRNN] alice was beginning to get very tired of the gryphon. the queen had not a little little little tea, and the
+   king, and the hatter. the march hare had to be the little thing, said the gryphon. the queen, and the
+   gryphon, and the hatter. the king said the
+[LSTM] alice was beginning to get very tired of the little voice. the cat was a little little little thing, and the
+   queen said the duchess. and she could not got to be the little little thing, and she was a little little
+   little little of the little little little little of the little little
+[GRU] alice was beginning to get very tired of the queen, and the duchess was a little little little little of the
+   queen, and the hatter was a little little little little and the little little little little little and the
+   queen was to be a little little little little and she was to be a little
+
+##### SEED: 'alice was beginning to get very tired of'   |   TEMPERATURE: 0.7
+[SimpleRNN] alice was beginning to get very tired of once. i'm first. question! they was; said alice. well, said the
+   queen! but you like any eagerly out, and the king there had seen the cat of the king of the cook and bread
+   and was we take her in her,
+[BiRNN] alice was beginning to get very tired of course, but alice was tears at a way of a rules of nice were or
+   footman, said the duchess, felt which came to be the way as from give the great use. a use of this sort of
+   two as first had to be afraid,
+[LSTM] alice was beginning to get very tired of however, if so she generally made this to herself, so she replied a
+   little sort of opportunity of course, five on this, i know. he might understand i think i went to have it
+   do a middle of you might call it was such the
+[GRU] alice was beginning to get very tired of which. oh, to live first! and she had suppose as her more and say, so
+   said alice, because i'm just to do, and he might perfectly well, said the king. i shall not didn't quite
+   see what is i see? she
+
+##### SEED: 'alice was beginning to get very tired of'   |   TEMPERATURE: 1.2
+[SimpleRNN] alice was beginning to get very tired of neck in repeat two. serpents hadn't less quite haven't! moving things
+   by one in might her nervous serpent! but those dinner on a change and queen; there wish i think you not it
+   began of than so is never! sat broken idea and hardly his
+[BiRNN] alice was beginning to get very tired of chorus. you'll hardly up followed its youth, like the master turtle
+   making do it soon you begun think bottle could stay both forgetting the whole; and tell another sisters in
+   a try of not here. gave alice hair without your worse will them, what said
+[LSTM] alice was beginning to get very tired of rule to ask at the month? i've had no large venture at others with so
+   life, child only hers made mine eyes looked to your very back: it's raised quite look for as she found a
+   race beautiful across at a players: there had mad so
+[GRU] alice was beginning to get very tired of crowded as altogether: and turns about came the life. tis their
+   twice, and began, turning to an last lesson telescope what that do, said alice; prizes, not when she had
+   any things asked that being hours. always particular to have morning.
+
+##### SEED: 'the queen of hearts said to the'   |   TEMPERATURE: 0.2
+[SimpleRNN] the queen of hearts said to the cat. i don't be be, said alice, and you was to be the way of the moment, and
+   the duchess, and the caterpillar of the duchess of the little turtle, and the hatter, and the little
+   turtle, and the dormouse, and
+[BiRNN] the queen of hearts said to the mouse, and the queen, and the hatter. the duchess, and the mock turtle in the
+   game, and the march turtle, and she had not on! and the hatter, and the hatter, and the queen of the time,
+   said the gryphon
+[LSTM] the queen of hearts said to the duchess. the hatter said. the hatter was a little little little of the little
+   little little of the little little little thing, and the march hare said to herself, and she had not to be
+   the little little, and the queen said to herself,
+[GRU] the queen of hearts said to the other time, and the gryphon said to herself, and she was to be a little little
+   little little and the queen was to be a little little little little little and the hatter was to be a
+   little little little of the little little little little and the
+
+##### SEED: 'the queen of hearts said to the'   |   TEMPERATURE: 0.7
+[SimpleRNN] the queen of hearts said to the gardeners with the words, as a air! it's the hookah, and said the caterpillar:
+   she turned a king of two, and alice you'll find his fact: she as not are in the word of sight, and march
+   had that after good and that
+[BiRNN] the queen of hearts said to the queen's leaves, here, as the right foot? the father. the moment it can enough
+   to waiting it on the young well, she wasn't school to look him of to go: then, they had saying to a told
+   the mock turtle while the more
+[LSTM] the queen of hearts said to the pool: and alice was when she did not been to ask the little size. well, said
+   alice, for the world it said. managed you go about nothing! said alice. you be take a sigh, and here, of
+   her subject, very
+[GRU] the queen of hearts said to the conversation? and she was an one if there was to talk. the duchess was going
+   to be reply, and she kept the very good ring, and they seen a little hands of the time. it ought to be
+   talking the mouse, i've not was
+
+##### SEED: 'the queen of hearts said to the'   |   TEMPERATURE: 1.2
+[SimpleRNN] the queen of hearts said to the ann on. i'm was tried to speak down at the guests of the heads tone on another
+   kept shaped oh: i sleep you a use patiently several nearer pointing so down and tis draw! the distance.
+   pepper she was race it was into make! he
+[BiRNN] the queen of hearts said to the escape till she seemed to face to itself than executed, sir, and just must
+   talk queer down english, thought she tried to the baby spoon rate me advance curiosity. so suddenly mad on
+   the song, besides, she wonder the hatter must hearts, with
+[LSTM] the queen of hearts said to the executioner wasn't as how as if i wish if well, goes she said alice to ask one
+   that settled! then a excellent thing, as dinn vanished behind some times back. chapter french about the
+   morning she alone to her slates, and were shaped began with
+[GRU] the queen of hearts said to the morning people, why, why! i'm speak back, twinkle, the same mouse opened us. o
+   other turning to treacle, and came tells always ear again back! but cried alice! to find the archbishop of
+   the earth. but nothing stick, i
+
+##### SEED: 'the white rabbit looked at his watch and'   |   TEMPERATURE: 0.2
+[SimpleRNN] the white rabbit looked at his watch and a little little little thing, and the queen, and the queen, and the
+   queen, and the dormouse was a little tone of the rabbit. the rabbit of the cat, and the hatter, and the
+   duchess, and the mouse was a little of
+[BiRNN] the white rabbit looked at his watch and the queen, and the gryphon, and the queen of the queen, and the
+   gryphon. the march hare was the hatter. the rabbit of the queen. the rabbit could be a little way, said the
+   duchess. the rabbit was a little little,
+[LSTM] the white rabbit looked at his watch and the little thing was a little little little of the little little
+   little of the little little little of the other thing, and she was not not a little little little little
+   little, and the rabbit said in the three tone. the mouse had not been the
+[GRU] the white rabbit looked at his watch and the queen was to be a little little little and the queen was to be a
+   little little little way to be a little little little little of the little little of the other, and the
+   gryphon said to herself, and the hatter was on the mouse,
+
+##### SEED: 'the white rabbit looked at his watch and'   |   TEMPERATURE: 0.7
+[SimpleRNN] the white rabbit looked at his watch and more and his good ear of a left of a same! and said the gryphon, i do
+   like this! said the caterpillar. there was this little swam in that? and alice. it's the young one
+   gardeners at a dreadfully sort of very changed,
+[BiRNN] the white rabbit looked at his watch and an mock turtle; so i don't quite about the three voice, she was she
+   was do to asleep before, it was them in a baby: you can be give them, said the duchess, oh, alas that but
+   if there wonder the deal.
+[LSTM] the white rabbit looked at his watch and hastily, and her argument was a same said, alice had a little came!
+   she looked at course as it was not put at her to do, but she must go to heard the deep, twinkle, also
+   rather two: once story, said the
+[GRU] the white rabbit looked at his watch and soldiers, said the caterpillar. alice thought she was so as she had i
+   think i wish i hadn't pardon to do you even should say you do, as she did not to see the dodo, there was
+   glad you only help so while the dormouse,
+
+##### SEED: 'the white rabbit looked at his watch and'   |   TEMPERATURE: 1.2
+[SimpleRNN] the white rabbit looked at his watch and interrupted, there had sleepy eat into them; and they just don't get
+   have them up out of hearts again. alice i'm reply was sound! without are puzzled. this nobody no best said
+   to the toes, thank because that can't hardly nowhere to go,
+[BiRNN] the white rabbit looked at his watch and sitting! be may difficulty: there looked it would your butter to time
+   the dormouse could give in bats high now to look under its bottom of all time what be nobody fell to get.
+   nothing, beau one staring let herself fell again yet the suppose to
+[LSTM] the white rabbit looked at his watch and usual. when i believe you well not! said the mouse, there know she
+   quite politely. several snail did her speak walking again at all! as then she spoke hair of perhaps to
+   change the fight, tis sitting for some chin off to great little
+[GRU] the white rabbit looked at his watch and less and small mad against it. two is a deal quite long without we
+   right head sort of meet comfits to herself their pat! treacle it's than as chapter march hare went a
+   suddenly. old! alas, sounds on once remark; wondering i wish it
